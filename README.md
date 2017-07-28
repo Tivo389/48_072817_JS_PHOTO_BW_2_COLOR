@@ -9,4 +9,4 @@ Shun
 
 DESCRIPTION:
 A byte-size project to see how greyscale photos become colour once in viewport.
-Photos from http://publicdomainarchive.com/
+Photos from http://publicdomainarchive.com/ and https://unsplash.com/
