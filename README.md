@@ -1,11 +1,12 @@
 PROJECT NAME:
-47_072317_JS_BG_COLOR_CHANGE
+48_072817_JS_PHOTO_BW_2_COLOR
 
 START DATE:
-July 23, 2017
+July 28, 2017
 
 AUTHOR:
 Shun
 
 DESCRIPTION:
-A byte-size project to see how background colours will change with scroll.
+A byte-size project to see how greyscale photos become colour once in viewport.
+Photos from http://publicdomainarchive.com/
