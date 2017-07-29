@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"font",
+				"font-weight"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
 				"pad",
 				"padding-bottom"
 			],
@@ -24,20 +32,12 @@
 				"img-responsive \tBootstrap 3 Class"
 			],
 			[
-				"back",
-				"background-image"
-			],
-			[
 				"cx",
 				"col-xs-12 \tBootstrap 3 Class"
 			],
 			[
 				"tras",
 				"transform"
-			],
-			[
-				"font",
-				"font-style"
 			],
 			[
 				"bo",
@@ -519,13 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -659,20 +652,27 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#48_072817_JS_PHOTO_BW_2_COLOR"
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#48_072817_JS_PHOTO_BW_2_COLOR",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#48_072817_JS_PHOTO_BW_2_COLOR/css",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#48_072817_JS_PHOTO_BW_2_COLOR/js"
 	],
 	"file_history":
 	[
-		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#48_072817_JS_PHOTO_BW_2_COLOR/JS_PHOTO_BW_2_COLOR.html",
-		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/shun_css_snippet.scss",
+		"/Users/SHUN/Dropbox/CANADA/01_NOTES_CONSULTANTS.txt",
+		"/Users/SHUN/Dropbox/CANADA/00_NOTES_CANADA.txt",
+		"/Users/SHUN/Dropbox/CANADA/My estimate total: 24 + 22 + 11 + 12 + 0 + 0 = 69p",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#49_07XX17_JS_FOCUS_BLUR_TEXT/README.md",
 		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#48_072817_JS_PHOTO_BW_2_COLOR/css/stylesheet.scss",
-		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/css/stylesheet.scss",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#48_072817_JS_PHOTO_BW_2_COLOR/JS_PHOTO_BW_2_COLOR.html",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#47_072317_JS_BG_COLOR_CHANGE/css/stylesheet.scss",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#48_072817_JS_PHOTO_BW_2_COLOR/js/gray_to_color.js",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#39_022017_JS_IF_CLASS_IN_VIEW_V2/js/viewport.js",
 		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#48_072817_JS_PHOTO_BW_2_COLOR/README.md",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/shun_css_snippet.scss",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/04_HTML/css/stylesheet.scss",
 		"/Users/SHUN/Dropbox/00_メモ/00ADDRESS.txt",
 		"/Users/SHUN/Dropbox/05_JOBHUNT/00_PRE_INTERVIEW.txt",
-		"/Users/SHUN/Dropbox/CANADA/01_NOTES_CONSULTANTS.txt",
 		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/99_TEMPLATE_SET/V4_FEB_2017/css/stylesheet.scss",
-		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#47_072317_JS_BG_COLOR_CHANGE/css/stylesheet.scss",
 		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#47_072317_JS_BG_COLOR_CHANGE/JS_BG_COLOR_CHANGE.html",
 		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#47_072317_JS_BG_COLOR_CHANGE/js/bg_color_change.js",
 		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/99_TEMPLATE_SET/V4_FEB_2017/template.html",
@@ -682,7 +682,6 @@
 		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/02_JAVASCRIPT_NOTES/00_THROTTLE_&_DEBOUNCE/JAPANESE_EXPLANATION/window_size_debounce demo.html",
 		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#40_031017_JS_LOGICAL_MACHINE/js/logical_js.js",
 		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/shun_js_snippet.js",
-		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#39_022017_JS_IF_CLASS_IN_VIEW_V2/js/viewport.js",
 		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#39_022017_JS_IF_CLASS_IN_VIEW_V2/IF_CLASS_IN_VIEW.html",
 		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2017_0105-0130_SKETCH_APP_LEARNING/NOTES_2017_0105-0130_SKETCH_APP_LEARNING.txt",
 		"/Users/SHUN/Dropbox/CANADA/04_STUDY/NOTES_LE_WAGON.txt",
@@ -691,7 +690,6 @@
 		"/Users/SHUN/Dropbox/CANADA/03_EMPLOYMENT/SAMPLE_JOB_ADS/001-012_EXTRACT.txt",
 		"/Users/SHUN/Desktop/COMBINED.txt",
 		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#47_072317_JS_BG_COLOR_CHANGE/css/bootstrap.css",
-		"/Users/SHUN/Dropbox/CANADA/00_NOTES_CANADA.txt",
 		"/Users/SHUN/Google Drive/00_TIVO/03_EMPLOYMENT/01_APPLICATIONS/01_ENGLISH/99_ARCHIVE/2017_06_29_RANDSTAD/NOTE.txt",
 		"/Users/SHUN/Dropbox/00_メモ/履歴書.txt",
 		"/Users/SHUN/Dropbox/00_メモ/来歴.txt",
@@ -787,14 +785,11 @@
 		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#43_040217_ANIMATE_SWIMMING_FISH/css/stylesheet.scss",
 		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#44_040917_CSS_FLOATING_CORNER_MENU/FLOATING_CORNER_MENU.html",
 		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#41_032717_JAVASCRIPT_FOR_KIDS/page266_CHALLENGE_b.html",
-		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#41_032717_JAVASCRIPT_FOR_KIDS/page253_SNAKE_PSEUDO_CODE.html",
-		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#41_032717_JAVASCRIPT_FOR_KIDS/page254_SNAKE.html",
-		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#41_032717_JAVASCRIPT_FOR_KIDS/page266_CHALLENGE_a.html",
-		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#41_032717_JAVASCRIPT_FOR_KIDS/page200_CANVAS_fillRect.html"
+		"/Users/SHUN/Desktop/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#41_032717_JAVASCRIPT_FOR_KIDS/page253_SNAKE_PSEUDO_CODE.html"
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -806,9 +801,33 @@
 	},
 	"find_state":
 	{
-		"case_sensitive": false,
+		"case_sensitive": true,
 		"find_history":
 		[
+			"police",
+			"Japan",
+			"japan",
+			"Level",
+			"language",
+			"IELTS",
+			"experience",
+			"ECA",
+			"ICE",
+			"IEC",
+			"IELTS",
+			"provincial",
+			"600",
+			"67",
+			"72",
+			"each",
+			"image__frame--active",
+			"″",
+			"′",
+			"FFB247",
+			"8CE91F",
+			"debug",
+			"description",
+			"location",
 			"center__vh",
 			"container",
 			"fluid",
@@ -912,31 +931,7 @@
 			"64",
 			"$navigation-bar-height--md",
 			"64",
-			"hover",
-			"main-page--get-in-touch",
-			"footer",
-			"50vh",
-			"220",
-			"block--",
-			"h2",
-			"block--",
-			"block--blue",
-			"254",
-			"235",
-			"%,",
-			"220",
-			"220,220,220",
-			"150,150,150",
-			"5",
-			"color:",
-			"body",
-			"color",
-			"paragraph--mono",
-			"hidden",
-			"h2",
-			"HELP PEOPLE",
-			"position",
-			"center__vh--css"
+			"hover"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -944,6 +939,8 @@
 		"regex": false,
 		"replace_history":
 		[
+			"\"",
+			"'",
 			"",
 			"\t",
 			"\t\t",
@@ -1075,37 +1072,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"bs_sintax": "plain text",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1156,7 +1124,7 @@
 	"project": "untitled.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 64.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1193,7 +1161,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 248.0,
 	"status_bar_visible": true,
 	"template_settings":
